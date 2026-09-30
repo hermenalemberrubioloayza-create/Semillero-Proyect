@@ -1,2 +1,2 @@
 # Comment
-Hello "Este es mi Primer Commit"
+console.log("Este es mi Primer Commit");
